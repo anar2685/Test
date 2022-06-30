@@ -1,0 +1,15 @@
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\bin\Debug\net6.0\Arrays_for.exe
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\bin\Debug\net6.0\Arrays_for.deps.json
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\bin\Debug\net6.0\Arrays_for.runtimeconfig.json
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\bin\Debug\net6.0\Arrays_for.dll
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\bin\Debug\net6.0\Arrays_for.pdb
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.csproj.AssemblyReference.cache
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.AssemblyInfoInputs.cache
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.AssemblyInfo.cs
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.csproj.CoreCompileInputs.cache
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.dll
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\refint\Arrays_for.dll
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.pdb
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\Arrays_for.genruntimeconfig.cache
+D:\JavaScript\SimpleCode\Arrays_for\Arrays_for\obj\Debug\net6.0\ref\Arrays_for.dll
